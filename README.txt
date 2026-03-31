@@ -81,7 +81,7 @@ python part1_generate_dataset.py
 
 Configuration parameters (can be modified in the script):
 
-N_SAMPLES: Number of sequences (default: 5000)
+N_SAMPLES: Number of sequences (default: 10000)
 
 N_ANTENNAS: Number of antennas (default: 4)
 
