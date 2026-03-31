@@ -1,0 +1,22 @@
+﻿# Virtual environments
+tf_env_310/
+tf_env/
+.env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Generated dataset (optional – you can keep it if you want, but it's large)
+# dataset/
+# results/
+
+# OS generated files
+.DS_Store
+Thumbs.db

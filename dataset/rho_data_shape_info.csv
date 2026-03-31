@@ -1,0 +1,2 @@
+n_samples,sequence_length,n_features,output_dim
+10000,10,8,1
